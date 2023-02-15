@@ -54,7 +54,7 @@ The Manager then processes the lead,Relevant
 Otherwise  he calls the next customer,Relevant
 The customer enters the withdrawal amount,Relevant
 The ATM returns cash to the customer and changes his account balance,Relevant
-If the balance on customer’s account is less than the withdrawal amount  the ATM returns an error,Relevant
+If the balance on customerâ€™s account is less than the withdrawal amount  the ATM returns an error,Relevant
 In a bowl  mix the lemon juice  olive oil  Dijon mustard  garlic  red bell pepper  salt  and pepper,Relevant
 Set aside 1/4 cup of the mixture to use for basting,Relevant
 Place chicken in the bowl  and marinate at least 20 minutes in the refrigerator,Relevant
@@ -145,7 +145,7 @@ If Service Management is sure they can analyze it  they perform the analysis and
 After Resource Provisioning receives the detailed problem report  it is checked whether there are any possible problems,Relevant
 If no problems are detected  a notification about the normal service execution is created,Relevant
 If a problem is detected this will be analyzed by Resource Provisioning and a trouble report is created,Relevant
-Either trouble report or the ‘normal execution’ notification will be included in a status report and sent back to Service Management,Relevant
+Either trouble report or the â€˜normal executionâ€™ notification will be included in a status report and sent back to Service Management,Relevant
 Service Management then prepares the final status report based on the received information,Relevant
 Subsequently it has to be determined what counter measures should be taken depending on the information in the final status report,Relevant
 Three alternative process paths may be taken,Irrelevant
@@ -176,7 +176,7 @@ After customer data has been entered it should then be compared with the interna
 In case of any errors these should be corrected on the basis of a simple error list,Relevant
 The comparison of data is done to prevent individual customer data being stored multiple times,Irrelevant
 In case the customer does not exist in the customer data base  a new customer object is being created which will remain the data object of interest during the rest of the process flow,Relevant
-This object consists of data elements such as the customer’s name and address and the assigned power gauge  including data such as bank connection  information on the selected rate  requested date of switch-over ,Irrelevant
+This object consists of data elements such as the customerâ€™s name and address and the assigned power gauge  including data such as bank connection  information on the selected rate  requested date of switch-over ,Irrelevant
 The generated customer object is then used  in combination with other customer data to prepare the contract documents for the power supplier switch,Relevant
  including data such as bank connection  information on the selected rate  requested date of switch-over ,Irrelevant
 In the following an automated check of the contract documents is carried out within the CIS  customer information system  in order to confirm their successful generation,Relevant
@@ -195,7 +195,7 @@ If there are not any objections by the grid operator,Relevant
  i.e. no supplier concurrence ,Irrelevant
 customer service creates a CIS contract,Relevant
 The customer then has the chance to check the contract details and based on this check may decide to either withdraw from the switch contract or confirm it,Relevant
-Depending on the customer’s acceptance/rejection the process flow at customer service either ends  in case of withdrawal  or continues  in case of a confirmation ,Relevant
+Depending on the customerâ€™s acceptance/rejection the process flow at customer service either ends  in case of withdrawal  or continues  in case of a confirmation ,Relevant
 An additional constraint is that the customer can only withdraw from the offered contract within 7 days   after the 7th day the contract will be regarded as accepted and the process continues,Relevant
 The confirmation message by the customer is therefore not absolutely necessary  as it will count as accepted after 7 days in any way  but it can speed up the switch process,Irrelevant
 On the switch-date  but no later than 10 days after power supply has begun  the grid operator transmits the power meter data to the customer service and the old supplier via messages containing a services consumption report,Relevant
@@ -341,7 +341,7 @@ The PayPal system then checks its values against the values entered by the clien
 If the values match  the bank account is linked to the clients PayPal account and is considered as confirmed,Relevant
 If the values do not match  the bank account is removed from the PayPal system  i.e. it could not be confirmed,Relevant
 In the process of reward and training  first  the management checks the employee performance,Relevant
-If the performance is less than 20   the management suggests the employee’s dismissal to the human resources department  HR ,Relevant
+If the performance is less than 20   the management suggests the employeeâ€™s dismissal to the human resources department  HR ,Relevant
 Then  the HR dismisses the employee,Relevant
 If the employee performance is greater than 20  but less than 50   the management will suggest training  which in turn is provided by HR,Relevant
 If the performance exceeds 75   the management suggests the employee for reward,Relevant
@@ -424,8 +424,8 @@ Finally  she assigns the order to the waiter,Relevant
 While the kitchen and the sommelier are doing their tasks  the waiter readies a cart,Relevant
  i.e.  puts a tablecloth on the cart and gathers silverware ,Relevant
 The waiter is also responsible for nonalcoholic drinks,Relevant
-Once the food  wine  and cart are ready  the waiter delivers it to the guest’s room,Relevant
-After returning to the room-service station  the waiter debits the guest’s account,Relevant
+Once the food  wine  and cart are ready  the waiter delivers it to the guestâ€™s room,Relevant
+After returning to the room-service station  the waiter debits the guestâ€™s account,Relevant
 The waiter may wait to do the billing if he has another order to prepare or deliver,Relevant
 A customer brings in a defective computer and the CRS checks the defect and hands out a repair cost calculation back,Relevant
 If the customer decides that the costs are acceptable  the process continues  otherwise she takes her computer home unrepaired,Relevant
@@ -465,7 +465,7 @@ Meantime  the Cashier captures the Party Details and prints the Physical Court F
 The process starts when a client cannot find a product at a local shop of HomeDeco,Relevant
 Client requests to a clerk if the product is available at the local warehouse,Relevant
 The clerk checks the availability of the product with the ERP system of HomeDeco,Relevant
-If the product is available at the local warehouse  the clerk makes a request to a warehouse manager to deliver the product to client at clerk’s desk directly,Relevant
+If the product is available at the local warehouse  the clerk makes a request to a warehouse manager to deliver the product to client at clerkâ€™s desk directly,Relevant
 If the product is not available  the clerk asks client if he would like to order that product or not,Relevant
 The product is normally delivered within 5 days at the local shop,Relevant
 If client refuses the request  the process ends,Relevant
@@ -479,9 +479,9 @@ When the product is delivered at the local shop  an sms is sent to inform client
 If the product is not delivered within 5 days  a notification is sent to client by asking him if he either maintains or cancels the order,Relevant
 If client wishes to cancel the order  HomeDeco reimburses client directly to his bank account and the process ends,Relevant
 Otherwise  a coupon of 20  of reduction for next purchase is offered to client and it is sent by email,Relevant
-If the product is not delivered within 10 days  the order is definitely cancelled  HomeDeco reimburses directly to client’s bank account and notifies client about the cancelation,Relevant
+If the product is not delivered within 10 days  the order is definitely cancelled  HomeDeco reimburses directly to clientâ€™s bank account and notifies client about the cancelation,Relevant
 The process starts when a Travel Agency received a flight reservation request from a client by email or phone,Relevant
-Travel Agency searches and evaluates flights based on client’s travel preferences,Relevant
+Travel Agency searches and evaluates flights based on clientâ€™s travel preferences,Relevant
  travel dates  airport ,Irrelevant
 Then  Travel Agency sends the most interesting flights to client,Relevant
  including itinerary  price ,Irrelevant
@@ -491,7 +491,7 @@ If no answer is received  the request is cancelled and Travel Agency notifies cl
 Client can provide three possible responses,Irrelevant
 Client rejects all the proposed flights or accepts one of the proposed flights  or changes travel preferences,Relevant
 For the latter  the process restarts  it is considered as a new request,Relevant
-In case of a flight is chosen  Travel Agency requests client’s personal information such as first name  last name  date of birth  number of passport ,Relevant
+In case of a flight is chosen  Travel Agency requests clientâ€™s personal information such as first name  last name  date of birth  number of passport ,Relevant
 so that Travel Agency can make a booking with airline company and it is valid for 7 days,Relevant
 If there is no answer from client regarding the personal information within 48 hours  the request is cancelled and Travel Agency notifies client,Relevant
 After the booking is done  Travel Agency sends flight information and a link to proceed the payment online to client,Relevant
@@ -531,10 +531,10 @@ If an insurant could be possibly subrogated against  I get information about tha
 I check that case and if the possibility is really there  I send a request for payment to the insurant and make me a reminder,Relevant
 If recourse is not possible  I close the case,Relevant
 When we receive the money  I make a booking and close the case,Relevant
-If the insurant disagrees with the recourse  I’ll have to check the reasoning of that,Relevant
+If the insurant disagrees with the recourse  Iâ€™ll have to check the reasoning of that,Relevant
 If he is right  I simply close the case,Relevant
 If he is wrong  I forward the case to a collection agency,Relevant
-If the deadline for disagreement is reached and we haven’t received any money  I forward the case to the collection agency as well,Relevant
+If the deadline for disagreement is reached and we havenâ€™t received any money  I forward the case to the collection agency as well,Relevant
 A guest enters the restaurant when feeling hungry,Relevant
 He chooses a dish from the changing meal range and waits until it is his turn,Relevant
 Following this he places his order with the employee,Relevant
@@ -543,7 +543,7 @@ After the payment  the employee sets up a buzzer and passes it on to the guest w
 Afterwards the employee informs the chef of the new meal order,Relevant
 The chef prepares the meal and places it in the service hatch,Relevant
 He then informs the employee that he has placed the finished meal in the service hatch,Relevant
-As soon as the employee is aware that the meal is ready he sets off the guest’s buzzer,Relevant
+As soon as the employee is aware that the meal is ready he sets off the guestâ€™s buzzer,Relevant
 This is how the guest finds out that his meal is ready for collection,Relevant
 He can pick up his meal and eat it,Relevant
 As soon as the guest appears at the service hatch  the employee hands over his meal,Relevant
@@ -552,13 +552,13 @@ henever a company makes the decision to go public  its first task is to select t
 Underwriters act as financial midwives to a new issue,Irrelevant
 Usually they play a triple role: First they provide the company with procedural and financial advice  then they buy the issue  and finally they resell it to the public,Irrelevant
 Established underwriters are careful of their reputation and will not handle a new issue unless they believe the facts have been presented fairly,Irrelevant
-Thus  in addition to handling the sale of a company’s issue  the underwriters in effect give their seal of approval to it,Relevant
+Thus  in addition to handling the sale of a companyâ€™s issue  the underwriters in effect give their seal of approval to it,Relevant
 They prepare a registration statement for the approval of the Securities and Exchange Commission  SEC ,Relevant
 In addition to registering the issue with the SEC  they need to check that the issue complies with the so-called blue-sky laws of each state that regulate sales of securities within the state,Relevant
 While the registration statement is awaiting approval  underwriters begin to firm up the issue price,Relevant
 They arrange a road show to talk to potential investors,Relevant
 Immediately after they receive clearance from the SEC  underwriters fix the issue price,Relevant
-After that they enter into a firm commitment to buy the stock and then offer it to the public  when they haven’t still found any reason not to do it,Relevant
+After that they enter into a firm commitment to buy the stock and then offer it to the public  when they havenâ€™t still found any reason not to do it,Relevant
 When a visitor wants to become a member of Barcelonas ZooClub  the following steps must be taken,Irrelevant
 First of all  the customer must decide whether he wants an individual or family membership,Relevant
 If he wants an individual membership  he must prepare his personal information,Relevant
